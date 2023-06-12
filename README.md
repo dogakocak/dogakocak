@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Doğa</h1>
-<h3 align="center">backend developer from Turkey</h3>
+<h3 align="center">Backend Developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dogakocak&label=Profile%20views&color=0e75b6&style=flat" alt="dogakocak" /> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogakocak" alt="dogakocak" /></a> </p> 
 
-<p align ="center"> - 🔭 I’m currently working on **eMSP** </p>
+<p align ="center"> - 🔭 I’m currently working on **Bilgi Teknolojileri ve İletişim Kurumu** </p>
 
-<p align ="center"> - 🌱 I’m currently learning **.NET Core, Angular** </p>
+<p align ="center"> - 🌱 I’m currently learning **.NET Core** </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
