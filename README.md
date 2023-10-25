@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogakocak" alt="dogakocak" /></a> </p> 
 
-<p align ="center"> - 🔭 I’m currently working on **OCPP** </p>
+<p align ="center"> - 🔭 I’m currently working on **Nöbetçi Borsa** </p>
 
 <p align ="center"> - 🌱 I’m currently learning **.NET Core** </p>
 
