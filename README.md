@@ -10,7 +10,7 @@
 
 <p align ="center"> - 🌱 I’m currently learning **Azure Pipelines** </p>
 
-
+### My main technology is .NET, but I also have hobby projects related to other technologies that interest me.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogakocak&show_icons=true&locale=en&layout=compact" alt="dogakocak" /></p>
